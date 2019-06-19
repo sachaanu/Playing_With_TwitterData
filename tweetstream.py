@@ -6,9 +6,9 @@ import json
 import time
 
 api_key = "YaqIAhet1pXbPh7LxS6lRUKRg"
-api_secret = "3BcAGwpUwv7TteNzOnhYeSIKlvjl2GDlMwqITQzUHvU4sVxRNy"
-access_token_key = "364708179-ZVzGv2EgqZQoUkra4vigFaT457RvUKBEMeXUCQtK"
-access_token_secret = "8cgL8qN31VbcSz5UUk4r0pKSnpHo5UHW3Bgd4C39BBwg5"
+api_secret = "api-secret"
+access_token_key = "secret-token"
+access_token_secret = "secret-token"
 
 _debug=0
 
